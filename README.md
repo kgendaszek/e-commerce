@@ -36,7 +36,9 @@ To test, use the command line and Insomnia.
 ## **Website**
 https://github.com/kgendaszek/e-commerce
 
+https://watch.screencastify.com/v/mjNE7mOVYMYeQaN8yIcB
 
+https://watch.screencastify.com/v/AxbJHvtTnQELoD7Nlmy1
 
 
 
